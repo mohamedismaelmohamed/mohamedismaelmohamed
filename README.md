@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm Mohamed Ismael
+###  Hi 👋, I'm Mohamed Ismael
 #### Software Engineer (Flutter Developer) 😀 👨‍💻
 ![Software Engineer (Flutter Developer) 😀 👨‍💻](https://avatars.githubusercontent.com/u/176206486?v=4)
 
