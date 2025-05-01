@@ -2,7 +2,7 @@
 #### Software Engineer (Flutter Developer) 😀 👨‍💻
 ![Software Engineer (Flutter Developer) 😀 👨‍💻](https://avatars.githubusercontent.com/u/176206486?v=4)
 
-🔭 Graduate of the Faculty of Engineering, Alexandria University, Higher Institute of Engineering and Technology, K 47
+🔭 Graduate of the Faculty of Engineering, Alexandria University, Higher Institute of Engineering and Technology, K 47 .
 🔭 Graduated from Route Academy (Flutter Diploma).
 
 Skills: Dart / Flutter / Firebase / git /GitHub / postman
