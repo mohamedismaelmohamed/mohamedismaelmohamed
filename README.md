@@ -12,7 +12,7 @@ Skills: Dart / Flutter / Firebase / git /GitHub / postman
 - 🌱 I’m currently learning  Flutter advanced 
 - 👯 I’m looking to collaborate on  Flutter Project 
 - 📫 How to reach me: mohamedismaelq145@gmail.com
-- 📄 Know about my experiences  .
+- 📄 Know about my experiences[CV](https://drive.google.com/file/d/1g0I2_9L2M9e4EUHrM6aR6ebrCTJdtV8I/view?usp=drive_link).
 - ⚡ Fun fact:  programming is Easy. 
 
 
